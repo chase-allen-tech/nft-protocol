@@ -12,5 +12,4 @@ npx hardhat compile
 npx hardhat --network rinkeby run scripts/deploy.js
 
 node scripts/mint-nft.js
-
-npx hardhat verify --network rinkeby 0x7bAA8E61874E3A136694e57fD5fC9bE823B39E56 ""
+npx hardhat verify --network rinkeby 0x7bAA8E61874E3A136694e57fD5fC9bE823B39E56
