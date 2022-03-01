@@ -1,0 +1,14 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Hair Style",
+            "value": "Long"
+        }, {
+            "trait_type": "Eye color",
+            "value": "Black"
+        }
+    ],
+    "description": "This is the test nft deployment",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXqMHC9Cru2Qi9p8NV1w5B35V8H8wDVg7hpjbsJ1vRBFd",
+    "name": "milos"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "nft-protocol",
+  "version": "1.0.0",
+  "description": "NFT Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speed-shot-77/nft-protocol.git"
+  },
+  "author": "Milos Rad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speed-shot-77/nft-protocol/issues"
+  },
+  "homepage": "https://github.com/speed-shot-77/nft-protocol#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.5",
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0"
+  }
+}
